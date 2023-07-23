@@ -1,12 +1,7 @@
-local Whitelist = {
-    ["MeatRider_Doggy"] = { 
-        Tag = "Ape Owner", 
-        Color = '#FF0202' 
+local Whitelist = {    ["NewUser3"] = {
+        Tag = "New Tag 3",
+        Color = "#AA00FF"
     },
-    ["IIIIIlIIlIIllIlII"] = {
-        Tag = "is he blakc ???",
-        Color = "#12FF00"
-    }
 }
 
 
