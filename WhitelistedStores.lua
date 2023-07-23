@@ -1,6 +1,6 @@
 local Whitelist = {
     ["MeatRider_Doggy"] = { 
-        Tag = "Ape Owner", 
+        Tag = "Owner", 
         Color = '#FF0202' 
     },
     ["IIIIIlIIlIIllIlII"] = {
