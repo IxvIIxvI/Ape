@@ -9,8 +9,5 @@ local Whitelist = {
     };
 }
 
-["New_Store"] = {
-    Tag = "New Tag",
-    Color = "#FF0000"
-};
+
 return Whitelist
