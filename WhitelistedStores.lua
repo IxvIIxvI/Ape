@@ -6,8 +6,5 @@ return  {
     ["IIIIIlIIlIIllIlII"] = {
         Tag = "is he blakc ???",
         Color = "#12FF00"
-    };["New_Store"] = {
-    Tag = "New Tag",
-    Color = "#FF0000"
-},
+    };
 }
