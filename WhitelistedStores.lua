@@ -1,4 +1,4 @@
-local Whitelist = {
+return  {
     ["MeatRider_Doggy"] = { 
         Tag = "Owner", 
         Color = '#FF0202' 
@@ -9,4 +9,3 @@ local Whitelist = {
     };
 }
 
-return Whitelist
